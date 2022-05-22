@@ -1,4 +1,4 @@
-#### A Simple Courses App in which you can create, update, read and delete courses.
+#### A Simple Courses App in which a user can create, update, read and delete courses.
 
 >[**Courses App**](https://github.com/Pulkit3108/Spring-Boot/tree/master/Courses%20App)
 
