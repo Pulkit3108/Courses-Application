@@ -1,8 +1,14 @@
-A Simple Course App in which you can create, update, read and delete courses.
-#### [**Courses App**](https://github.com/Pulkit3108/Spring-Boot/tree/master/Courses%20App)
+#### A Simple Course App in which you can create, update, read and delete courses.
+
+>[**Courses App**](https://github.com/Pulkit3108/Spring-Boot/tree/master/Courses%20App)
+
 This folder contains the front-end code that is written in **React JS**.
-#### [**Spring Rest**](https://github.com/Pulkit3108/Spring-Boot/tree/master/Spring%20Rest)
+
+>[**Spring Rest**](https://github.com/Pulkit3108/Spring-Boot/tree/master/Spring%20Rest)
+
 This folder contains the **REST APIs** that are made using **Spring Boot**.
+
+
 (Make sure to install **MySQL** first and update [**application.properties**](https://github.com/Pulkit3108/Spring-Boot/blob/master/Spring%20Rest/src/main/resources/application.properties) file before running the code.)
 
 
