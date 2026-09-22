@@ -22,7 +22,7 @@ public class MyController {
 	@Autowired
 	private CourseService courseService;
 	
-	@CrossOrigin(origins = "http://127.0.0.1:9090")
+	@CrossOrigin(origins = "http://localhost:3000")
 	@GetMapping("/home")
 	public String home() {
 		return "Hello World";
