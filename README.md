@@ -57,7 +57,7 @@ The development server opens the application at `http://localhost:3000` and call
 | `PUT` | `/courses` | Update a course |
 | `DELETE` | `/courses/{courseId}` | Delete a course |
 
-## Screenshots
+## Application Preview
 
 | Add a course | Browse courses |
 | --- | --- |
